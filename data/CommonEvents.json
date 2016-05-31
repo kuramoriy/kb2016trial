@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":249,"indent":0,"parameters":[{"name":"Curse2","volume":90,"pitch":100,"pan":0}]},{"code":212,"indent":0,"parameters":[-1,65,true]},{"code":127,"indent":0,"parameters":[7,0,0,1,false]},{"code":319,"indent":0,"parameters":[1,1,7]},{"code":126,"indent":0,"parameters":[11,1,0,1]},{"code":101,"indent":0,"parameters":["Harold",2,0,2]},{"code":401,"indent":0,"parameters":["\\C[1]\\N[1]\\C[0]"]},{"code":401,"indent":0,"parameters":["な、なんだこれ　にょろにょろぴょ～ん！"]},{"code":101,"indent":0,"parameters":["Harold",5,0,2]},{"code":401,"indent":0,"parameters":["\\C[1]\\N[1]\\C[0]"]},{"code":401,"indent":0,"parameters":["英霊だなんて嘘だ　にょろにょろぴょ～ん！"]},{"code":401,"indent":0,"parameters":["呪いじゃないか　にょろにょろぴょ～ん！"]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["Harold",6,0,2]},{"code":401,"indent":0,"parameters":["\\C[1]\\N[1]\\C[0]"]},{"code":401,"indent":0,"parameters":["……だせぇ語尾だな　にょろにょろぴょ～ん！"]},{"code":121,"indent":0,"parameters":[9,9,0]},{"code":0,"indent":0,"parameters":[]}],"name":"最強の剣","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
